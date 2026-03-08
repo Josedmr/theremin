@@ -3,25 +3,6 @@ dependencies:
     source:
       type: idf
     version: 5.5.2
-  myADC:
-    component_hash: dddb1ae79c01a1914d24ee62489373ec00521ef1fe13859b749cbb64ad87e730
-    dependencies: []
-    source:
-      git: https://github.com/Josedmr/Projecten_Microcontroller.git
-      path: components/myADC
-      type: git
-    version: 33dd17710bef21776bf6ac8bf5d67054d686db33
-  myPWM:
-    component_hash: 7ee13c8179c5a674e643bacc6bf5c8656c878c9b86cbcc04354960538b97aec2
-    dependencies: []
-    source:
-      git: https://github.com/Josedmr/Projecten_Microcontroller.git
-      path: components/myPWM
-      type: git
-    version: 33dd17710bef21776bf6ac8bf5d67054d686db33
-direct_dependencies:
-- myADC
-- myPWM
-manifest_hash: 2ec7df8a70ee22b7d481504a30403275fed9b06fe4422a6714dc5d740eca2187
+manifest_hash: 4af82d28f21e781ac5cab45e9ab0ade6531a1957a0a7b72eb790ca1129a40d8f
 target: esp32
 version: 2.0.0
