@@ -1,0 +1,9 @@
+dependencies:
+
+  myADC:
+    path: components/myADC
+    git: https://github.com/Josedmr/Projecten_Microcontroller.git
+
+  myPWM:
+    path: components/myPWM
+    git: https://github.com/Josedmr/Projecten_Microcontroller.git
